@@ -640,3 +640,17 @@
 2021-08-14 19:06:54,062 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-08-14 19:06:54,062 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-08-14 19:06:54,062 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\FelipePamela\Desktop\DevS\dscatalog\backend\src\test\resources
+2021-08-14 22:28:26,220 [Worker-64: Launching backend - DemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 22:28:26,220 [Worker-64: Launching backend - DemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-14 22:28:26,336 [Worker-64: Launching backend - DemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-08-14 22:28:27,767 [Worker-64: Launching backend - DemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-14 22:28:27,825 [Worker-64: Launching backend - DemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 22:28:27,825 [Worker-64: Launching backend - DemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-14 22:28:27,826 [Worker-64: Launching backend - DemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\FelipePamela\Desktop\DevS\dscatalog\backend\src\test\resources
+2021-08-14 22:35:05,039 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 22:35:05,040 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-14 22:35:05,042 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-08-14 22:35:05,152 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-14 22:35:05,161 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 22:35:05,162 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-14 22:35:05,162 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\FelipePamela\Desktop\DevS\dscatalog\backend\src\test\resources
