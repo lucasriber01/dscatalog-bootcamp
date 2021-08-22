@@ -1,3 +1,6 @@
+import './app.scss'; 
+import './core/assets/styles/custom.scss'; 
+import NavBar from './core/components/NavBar';
 
 
 
@@ -5,7 +8,7 @@ const App =() =>{
 
 
     return (
-        <h1>teste</h1>
+        <NavBar/>
     );
 }
 
